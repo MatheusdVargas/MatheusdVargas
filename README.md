@@ -1,8 +1,8 @@
 ### Olá, eu sou o Matheus 👋🏼
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vargas.matheuss/)
 
-[![Matheus's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MatheusdVargas/github-readme-stats#gh-dark-mode-only)
-[![Matheus's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MatheusdVargas/github-readme-stats#gh-light-mode-only)
+[![Matheus's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MatheusdVargas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MatheusdVargas/github-readme-stats#gh-dark-mode-only)
+[![Matheus's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MatheusdVargas&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MatheusdVargas/github-readme-stats#gh-light-mode-only)
 <!--
 
 Here are some ideas to get you started:

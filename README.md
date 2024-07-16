@@ -1,16 +1,43 @@
-### Olá, eu sou o Matheus 👋🏼
-### Estudante de tec. em Informatica no IFRS - Campus Erechim
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vargas.matheuss/)
+<h1 align="left">Olá, eu sou o Matheus 👋🏼</h1>
 
-[![Matheus's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MatheusdVargas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MatheusdVargas/github-readme-stats#gh-dark-mode-only)
-[![Matheus's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MatheusdVargas&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MatheusdVargas/github-readme-stats#gh-light-mode-only)
- 
- ## Tecnologias que eu estudo:
+###
 
- <div align="center" style="display: inline_block"><br>
-   <img alt="HTML 5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="CSS 3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="Java 21" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
- </div>
+<img align="right" height="150" src="https://pa1.aminoapps.com/7556/290db318026cf9d2f2bb3b9c817b06c127a873b4r1-300-300_00.gif"  />
+
+###
+
+<h3 align="left">🏫 Estudante de tec. em Informatica no IFRS - Campus Erechim<br>🪲 Criando bugs desde 2023<br>🧟 Futuro programador fullstack</h3>
+
+###
+
+<h6 align="left"></h6>
+
+###
+
+<h2 align="left">Linguagens que eu estudo:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusdvargas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/output/output/output/snake.svg" alt="Snake animation" />
+
+###

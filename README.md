@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🏫 Estudante de tec. em Informatica no IFRS - Campus Erechim<br>🪲 Criando bugs desde 2023<br>🧟 Futuro programador front-end</h3>
+<h3 align="left">🏫 Estudante de tec. em Informatica no IFRS - Campus Erechim<br>🪲 Criando bugs desde 2023<br>🧟 Futuro desenvolvedor front-end</h3>
 
 ###
 

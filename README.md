@@ -1,4 +1,5 @@
-<h1 align="left">Olá, eu sou o Matheus 👋🏼</h1>
+<h1 align="left">Welcome to my GitHub!</h1>
+<h2>Here you'll find projects that reflect my passion for web development and algorithms</h2>
 
 ###
 
@@ -6,7 +7,7 @@
 
 ###
 
-<h3 align="left">🏫 Estudante de tec. em Informatica no IFRS - Campus Erechim<br>🪲 Criando bugs desde 2023<br>🧟 Futuro desenvolvedor front-end</h3>
+<h3 align="left">🏫 I'm an IT student at IFRS - Campus Erechim<br>🪲 Creating bugs since 2023<br>🧟 Future web developer</h3>
 
 ###
 
@@ -14,7 +15,7 @@
 
 ###
 
-<h3 align="left">Linguagens que eu estudo:</h3>
+<h3 align="left">Technologies and languages I'm exploring:</h3>
 
 ###
 

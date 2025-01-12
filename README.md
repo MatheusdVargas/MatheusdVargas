@@ -1,5 +1,5 @@
 <h1 align="left">Welcome to my GitHub!</h1>
-<h2>Here you'll find projects that reflect my passion for web development and algorithms</h2>
+<h2>Here you'll find projects that reflect my passion for web development and algorithms.</h2>
 
 ###
 

@@ -1,5 +1,5 @@
 <h1 align="left">Welcome to my GitHub!</h1>
-<h2>Here you'll find projects that reflect my passion for web development and algorithms.</h2>
+<h2>This space features projects inspired by my interest in web development and algorithms.</h2>
 
 <img align="right" width="120" src="https://pa1.aminoapps.com/7556/290db318026cf9d2f2bb3b9c817b06c127a873b4r1-300-300_00.gif" alt="GIF" />
 

@@ -35,14 +35,9 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusdVargas&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusdVargas/MatheusdVargas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusdVargas/MatheusdVargas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusdVargas/MatheusdVargas/output/pacman-contribution-graph.svg">
-</picture>

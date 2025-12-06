@@ -35,7 +35,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-![MatheusdVargas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusdVargas&theme=dark&show_icons=true)
+<h3 align="left">📊 GitHub Stats</h3>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">    <img  alt="MatheusdVargas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MatheusdVargas?cardType=github&theme=dark&preferLogin=false"/>  </a>
 

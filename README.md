@@ -1,35 +1,29 @@
-<h1 align="left">Welcome to my GitHub!</h1>
-<h2>This space features projects inspired by my interest in web development and algorithms.</h2>
-
-<img align="right" width="120" src="https://static.wikia.nocookie.net/joke-battles/images/4/4e/Roach.gif/revision/latest?cb=20200413230029" alt="GIF" />
-
-<h3 align="left">🏫 I'm an IT student at IFRS - Campus Erechim<br>🪲 Creating bugs since 2023<br>🧟 Future web developer</h3>
-
-<br clear="right"/>
-
----
-
-<h3 align="left">🧠 Technologies and languages I'm exploring:</h3>
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <h1>Matheus Vargas</h1>
+  <p><em>IT Student · Web Developer in progress</em></p>
+  <p>
+    🎓 IFRS — Campus Erechim &nbsp;|&nbsp;
+    🐛 Writing bugs since 2023
+  </p>
 </div>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">    <img  alt="MatheusdVargas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MatheusdVargas?cardType=github&theme=dark&preferLogin=false"/>  </a>
+### Stack
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">
+  <img alt="MatheusdVargas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MatheusdVargas?cardType=github&theme=dark&preferLogin=false" />
+</a>
